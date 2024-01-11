@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vr8=y1dq5v94kxl$vfi9rs_w7othz34=umt&-@e&6i37iwvryf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["generatorcv.onrender.com"]
 
 
 # Application definition
